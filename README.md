@@ -48,8 +48,11 @@ The full write-up is in [`BVG_Accessibility_Report.pdf`](BVG_Accessibility_Repor
 ```
 .
 ├── README.md
+├── 01_Raw_Data/         
+├── 02_Processed_Data/
+├── 04_Maps/
 ├── BVG_Accessibility_Report.pdf
-└── 04_Maps/            exported map (PNG / PDF)
+└── BVG_Accessibility.qgz
 ```
 
 Add the GeoPackages from `03_Analysis/` only if they are small; check file sizes first (GitHub rejects files over 100 MB).
